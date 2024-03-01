@@ -1,7 +1,7 @@
 export ARCH=arm64
 export KBUILD_BUILD_USER=pradeep
 export KBUILD_BUILD_HOST=deepnote
-export PATH="/root/toolchain/bin/:$PATH"
+export PATH="/root/toolchain/clang/bin/:$PATH"
 
 
 make
